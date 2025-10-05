@@ -5,13 +5,6 @@ This GitHub profile serves as my portfolio and documentation of my development j
 
 ---
 
-## 📂 Projects & Experience
-
-- **Calculadora** — a simple calculator project in Python  
-- (More projects will be added as I continue learning and building)
-
----
-
 ## 🌐 Web3 Journey
 
 I am starting my path into Web3 and Ethereum development.  
