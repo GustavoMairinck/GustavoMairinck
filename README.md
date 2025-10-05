@@ -8,10 +8,5 @@ This GitHub profile serves as my portfolio and documentation of my development j
 ## 🌐 Web3 Journey
 
 I am starting my path into Web3 and Ethereum development.  
-My current focus includes:
-
-- Deploying smart contracts on EVM-compatible testnets (e.g. Goerli or Sepolia)  
-- Setting up a Safe Multi-Signature Wallet with at least two signers  
-- Exploring secure asset management and decentralized governance  
 
 ---
