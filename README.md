@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Gustavo Mairinck
 
-<!--
-**GustavoMairinck/GustavoMairinck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I’m **Gustavo Mairinck**, a Computer Engineering student.  
+This GitHub profile serves as my portfolio and documentation of my development journey.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects & Experience
+
+- **Calculadora** — a simple calculator project in Python  
+- (More projects will be added as I continue learning and building)
+
+---
+
+## 🌐 Web3 Journey
+
+I am starting my path into Web3 and Ethereum development.  
+My current focus includes:
+
+- Deploying smart contracts on EVM-compatible testnets (e.g. Goerli or Sepolia)  
+- Setting up a Safe Multi-Signature Wallet with at least two signers  
+- Exploring secure asset management and decentralized governance  
+
+---
